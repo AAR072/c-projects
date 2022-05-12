@@ -1,0 +1,15 @@
+C:\Users\Ali-Akber\Desktop\c# idk\bin\Debug\net6.0\c# idk.exe
+C:\Users\Ali-Akber\Desktop\c# idk\bin\Debug\net6.0\c# idk.deps.json
+C:\Users\Ali-Akber\Desktop\c# idk\bin\Debug\net6.0\c# idk.runtimeconfig.json
+C:\Users\Ali-Akber\Desktop\c# idk\bin\Debug\net6.0\c# idk.dll
+C:\Users\Ali-Akber\Desktop\c# idk\bin\Debug\net6.0\c# idk.pdb
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.csproj.AssemblyReference.cache
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.AssemblyInfoInputs.cache
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.AssemblyInfo.cs
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.csproj.CoreCompileInputs.cache
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.dll
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\refint\c# idk.dll
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.pdb
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\c# idk.genruntimeconfig.cache
+C:\Users\Ali-Akber\Desktop\c# idk\obj\Debug\net6.0\ref\c# idk.dll
